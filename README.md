@@ -1,1 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/oPXDwk0m)
+Exersize 1: Made a diagonal row of ellipses that randomly flash a color from an array
+
+Exersize 2: Made a grid of ellipses using a loop that will fill with a random color from an array
+
+Exersize 3: Made the grid interactable with your mouse by changeing the grid to squares on click
